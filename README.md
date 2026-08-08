@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Parthcodes7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Parthcodes7/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Parthcodes7/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
