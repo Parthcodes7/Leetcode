@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Parthcodes7/Leetcode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/Parthcodes7/Leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Parthcodes7/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Parthcodes7/Leetcode/tree/master/0595-big-countries) |
 ## Quicksort
