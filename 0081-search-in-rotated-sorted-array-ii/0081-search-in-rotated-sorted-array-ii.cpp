@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int low = 0, high = n - 1;
+        
+        int low = 0, high = nums.size() - 1;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
