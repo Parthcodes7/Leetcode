@@ -3,13 +3,12 @@
 class Solution {
 public:
     int singleNonDuplicate(std::vector<int>& nums) {
-        int n = nums.size();
 
-        if (n == 1) return nums[0];
+        if (nums.size() == 1) return nums[0];
         if (nums[0] != nums[1]) return nums[0];
-        if (nums[n - 1] != nums[n - 2]) return nums[n - 1];
+        if (nums[nums.size() - 1] != nums[nums.size() - 2]) return nums[nums.size() - 1];
 
-        int low = 1, high = n - 2;
+        int low = 1, high = nums.size() - 2;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
