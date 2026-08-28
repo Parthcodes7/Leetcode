@@ -1,6 +1,3 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
     long long calculaTetotalHours(vector<int>& piles, int speed) {
