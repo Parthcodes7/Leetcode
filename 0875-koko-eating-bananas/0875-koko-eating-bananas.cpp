@@ -1,9 +1,12 @@
+#include <vector>
+#include <algorithm>
+
 class Solution {
 public:
     long long calculaTetotalHours(vector<int>& piles, int speed) {
         long long totalH = 0;
         for (int banana : piles) {
-            totalH += ceil((double)banana / speed);
+            totalH += (banana + speed - 1) / speed;
         }
         return totalH;
     }
@@ -14,7 +17,7 @@ public:
         int ans = maxPiles;
 
         while (low <= high) {
-            int mid = (low + high) / 2;
+            int mid = low + (high - low) / 2;
             long long totalH = calculaTetotalHours(piles, mid);
 
             if (totalH <= h) {
