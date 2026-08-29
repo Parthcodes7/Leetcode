@@ -2,16 +2,16 @@ class Solution {
 public:
     int SumbyD(const std::vector<int>& nums, int div) {
         int sum = 0;
-        int n = nums.size();
-        for (int i = 0; i < n; i++) {
+        
+        for (int i = 0; i < nums.size(); i++) {
             sum += (nums[i] + div - 1) / div;
         }
         return sum;
     }
 
     int smallestDivisor(std::vector<int>& nums, int threshold) {
-        int n = nums.size();
-        if (n > threshold) return -1;
+        
+        if (nums.size() > threshold) return -1;
 
         int low = 1;
         int high = *std::max_element(nums.begin(), nums.end());
