@@ -1,35 +1,33 @@
 class Solution {
 public:
-    int shipWithinDays(std::vector<int>& weights, int days) {
-        std::ios_base::sync_with_stdio(false);
-        std::cin.tie(NULL);
-
-        int low = *std::max_element(weights.begin(), weights.end());
-        int high = std::accumulate(weights.begin(), weights.end(), 0);
-        int ans = high;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            int requiredDays = 1;
-            int currentLoad = 0;
-            for (int w : weights) {
-                if (currentLoad + w > mid) {
-                    requiredDays++;
-                    currentLoad = w;
-                } else {
-                    currentLoad += w;
-                }
+    int findDays(vector<int> &weights, int cap){
+        int n = weights.size();
+        int days = 1, load = 0;
+        for(int i = 0; i < n; i++){
+            if(weights[i] + load > cap){
+                days += 1;
+                load = weights[i];
             }
+            else{
+                load += weights[i];
+            }
+        }
+        return days;
+    }
 
-            if (requiredDays <= days) {
-                ans = mid;
+    int shipWithinDays(vector<int>& weights, int days) {
+        int low = *max_element(weights.begin(), weights.end());
+        int high = accumulate(weights.begin(), weights.end(), 0);
+        while(low <= high){
+            int mid = (low + high) / 2;
+            int numberofDays = findDays(weights, mid);
+            if (numberofDays <= days) {
                 high = mid - 1;
-            } else {
+            }
+            else{
                 low = mid + 1;
             }
         }
-
-        return ans;
+        return low;
     }
 };
