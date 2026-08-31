@@ -14,7 +14,7 @@ public:
         int ans = maxPiles;
 
         while (low <= high) {
-            int mid = low + (high - low) / 2;
+            int mid = (high + low) / 2;
             long long totalH = calculaTetotalHours(piles, mid);
 
             if (totalH <= h) {
