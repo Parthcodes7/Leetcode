@@ -1,9 +1,10 @@
 class Solution {
 public:
     int countStudents(vector<int> &nums, int pages){
+        int n = nums.size();
         int students = 1;
         long long pagesStudents = 0;
-        for(int i = 0; i < nums.size(); i++){
+        for(int i = 0; i < n; i++){
             if(pagesStudents + nums[i] <= pages){
                 pagesStudents += nums[i];
             }
