@@ -1,10 +1,9 @@
 class Solution {
 public:
     int countStudents(vector<int> &nums, int pages){
-        int n = nums.size();
         int students = 1;
         long long pagesStudents = 0;
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < nums.size(); i++){
             if(pagesStudents + nums[i] <= pages){
                 pagesStudents += nums[i];
             }
@@ -17,8 +16,7 @@ public:
     }
 
     int findPages(vector<int> &nums, int m) {
-        int n = nums.size();
-        if(m > n) return -1;
+        if(m > nums.size()) return -1;
         
         int low = *max_element(nums.begin(), nums.end());
         int high = accumulate(nums.begin(), nums.end(), 0);
