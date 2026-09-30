@@ -3,8 +3,8 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
 
         map<int, int> mp;
-
-        for (int i = 0; i < nums.size(); i++) {
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
 
             int complement = target - nums[i];
 
