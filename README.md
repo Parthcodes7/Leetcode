@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Parthcodes7/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Parthcodes7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Parthcodes7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Parthcodes7/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Parthcodes7/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parthcodes7/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parthcodes7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -201,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Parthcodes7/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Parthcodes7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/Parthcodes7/Leetcode/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/Parthcodes7/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parthcodes7/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Parthcodes7/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Parthcodes7/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parthcodes7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Parthcodes7/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Parthcodes7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Parthcodes7/Leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Parthcodes7/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
