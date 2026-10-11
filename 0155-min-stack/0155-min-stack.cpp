@@ -1,3 +1,7 @@
+#include <stack>
+
+using namespace std;
+
 class MinStack {
     stack<long long> st;
     long long mini;
