@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Parthcodes7/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Parthcodes7/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Parthcodes7/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Parthcodes7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parthcodes7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Parthcodes7/Leetcode/tree/master/0283-move-zeroes) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Parthcodes7/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Parthcodes7/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parthcodes7/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parthcodes7/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Parthcodes7/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -336,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Parthcodes7/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Parthcodes7/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Parthcodes7/Leetcode/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parthcodes7/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parthcodes7/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parthcodes7/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
