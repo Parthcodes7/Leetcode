@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/Parthcodes7/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parthcodes7/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Parthcodes7/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/Parthcodes7/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parthcodes7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Parthcodes7/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Parthcodes7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Parthcodes7/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Parthcodes7/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parthcodes7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
