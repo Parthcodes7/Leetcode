@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/Parthcodes7/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Parthcodes7/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Parthcodes7/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parthcodes7/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parthcodes7/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Parthcodes7/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parthcodes7/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/Parthcodes7/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Parthcodes7/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Parthcodes7/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parthcodes7/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Parthcodes7/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Parthcodes7/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Parthcodes7/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parthcodes7/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
