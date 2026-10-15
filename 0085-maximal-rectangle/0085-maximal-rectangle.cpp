@@ -39,7 +39,7 @@ public:
                     heights[j]++;
                 }
                 else {
-                    heights[j] = 0; // Fixed from heights[i] = 0
+                    heights[j] = 0; 
                 }
             }
             maxArea = max(maxArea, largestRectangleArea(heights));
