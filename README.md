@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Parthcodes7/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Parthcodes7/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Parthcodes7/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Parthcodes7/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Parthcodes7/Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Parthcodes7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Parthcodes7/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Parthcodes7/Leetcode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Parthcodes7/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Parthcodes7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Parthcodes7/Leetcode/tree/master/0704-binary-search) |
