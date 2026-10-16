@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Parthcodes7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Parthcodes7/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Parthcodes7/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Parthcodes7/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Parthcodes7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Parthcodes7/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Parthcodes7/Leetcode/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Parthcodes7/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Parthcodes7/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Parthcodes7/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Parthcodes7/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Parthcodes7/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Parthcodes7/Leetcode/tree/master/0441-arranging-coins) |
