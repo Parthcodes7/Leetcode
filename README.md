@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Parthcodes7/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Parthcodes7/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Parthcodes7/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Parthcodes7/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Parthcodes7/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Parthcodes7/Leetcode/tree/master/0509-fibonacci-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Parthcodes7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Parthcodes7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Parthcodes7/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Parthcodes7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Parthcodes7/Leetcode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Parthcodes7/Leetcode/tree/master/0493-reverse-pairs) |
