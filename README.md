@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Parthcodes7/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parthcodes7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Parthcodes7/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Parthcodes7/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Parthcodes7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Parthcodes7/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parthcodes7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Parthcodes7/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parthcodes7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
